@@ -16,13 +16,12 @@ const Main = () => {
           <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-36 md:bottom-24">
             <div className="border-l-4 border-stone-800 p-2">
               <h1 className="text-3xl md:text-5xl font-bold text-slate-900">
-                Um espaço moderno para voce fazer networking, crescer
+                Um espaço premium para voce fazer networking, crescer
                 profissionalmente e ter liberdade
               </h1>
               <h2 className="text-base mt-2 md:mt-5 md:text-xl font-bold">
-                Reduza custos com espaços de coworking e promova seu crescimento
-                profissional. Escolha entre diferentes espaços de trabalho e
-                tenha acesso a recursos de infraestrutura de qualidade.
+                Economize tempo e dinheiro com espaços de coworking e tenha acesso a recursos de infraestrutura de qualidade.
+                Escolha entre diferentes espaços de trabalho e promova seu crescimento profissional.
               </h2>
             </div>
 
