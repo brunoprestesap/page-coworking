@@ -6,7 +6,7 @@ const Beneficios = () => {
     {
       id: 1,
       title: "Internet estável e rápida",
-      desc: "Temos uma estrutura de internet super rápida. Internet lenta ou instável vai impactar na sua produtividade ou do seu time. Não fique sem internet no meio dos seus trabalhos, eventos ou reuniões. Livre-se dos custos com internet problemática e que lhe deixa na mão sempre quando você mais precisa..",
+      desc: "Temos uma estrutura de internet super rápida. Internet lenta ou instável vai impactar na sua produtividade ou do seu time. Não fique sem internet no meio dos seus trabalhos, eventos ou reuniões. Livre-se dos custos com internet problemática e que lhe deixa na mão sempre quando você mais precisa.",
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ const Beneficios = () => {
     },
     {
       id: 5,
-      title: "Localização e acessibilidade estratégico",
+      title: "Localização e acessibilidade estratégica",
       desc: "Estamos localizados estratégicamente com fácil acesso a transporte público, estacionamento conveniente e proximidade a áreas comerciais ou hubs empresariais.",
     },
     {
