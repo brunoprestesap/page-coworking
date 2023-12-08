@@ -27,7 +27,7 @@ const Main = () => {
               </h2>
             </div>
 
-            <div className="flex justify-center md:justify-start mt-5">
+            <div className="flex justify-center md:justify-start mt-3">
               <a
                 href="https://wa.me/5596981285542"
                 target="_blank"
