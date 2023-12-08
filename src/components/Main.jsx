@@ -10,7 +10,7 @@ const Main = () => {
         <img src={bgMain} className="w-full h-screen object-cover" alt="/" />
 
         {/* Container main */}
-        <div className="w-full h-screen absolute top-0 left-0 bg-gradient-to-r from-slate-100 from-3% via-slate-300 justify-center">
+        <div className="w-full h-screen absolute top-0 left-0 bg-gradient-to-r from-slate-200 from-3% via-slate-300 justify-center">
           <h1 className="font-bold text-4xl m-5">Villa CoWorking</h1>
 
           <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-36 md:bottom-24">
