@@ -20,7 +20,7 @@ const Main = () => {
                 profissionalmente e ter liberdade
               </h1>
               <h2 className="text-base mt-2 md:mt-5 md:text-xl font-bold">
-                Reduza custos com espaços de coworking que promova seu
+                Reduza custos com espaços de coworking e promova seu
                 crescimento profissional. Escolha entre diferentes espaços de
                 trabalho e tenha acesso a recursos de infraestrutura de
                 qualidade.
