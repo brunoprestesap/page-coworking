@@ -13,7 +13,7 @@ const Main = () => {
         <div className="w-full h-screen absolute top-0 left-0 bg-white/50 justify-center">
           <h1 className="font-bold text-4xl m-5">Villa CoWorking</h1>
 
-          <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-28 md:bottom-24">
+          <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-32 md:bottom-24">
             <div className="border-l-4 border-stone-800 p-2">
               <h1 className="text-3xl md:text-5xl font-bold text-slate-900">
                 Um espaço moderno para voce fazer networking, crescer
