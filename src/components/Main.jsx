@@ -21,7 +21,7 @@ const Main = () => {
               </h1>
               <h2 className="text-base mt-2 md:mt-5 md:text-xl font-bold">
                 Reduza custos com espaços de coworking que promova seu
-                crescimento profissional, escolhendo entre diferentes espaços de
+                crescimento profissional. Escolha entre diferentes espaços de
                 trabalho e tenha acesso a recursos de infraestrutura de
                 qualidade.
               </h2>
