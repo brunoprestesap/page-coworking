@@ -65,7 +65,7 @@ const Beneficios = () => {
 
           <div className="px-5 py-8">
             <h2 className="text-base md:text-lg text-stone-200 landing-7">
-              Os benefícios que voce vai ter ao contratar o Villa Coworking
+                Bem-vindo ao Villa Coworking, onde a inovação encontra a produtividade! Oferecemos um ambiente dinâmico e estimulante que se adapta às suas necessidades de trabalho e impulsiona sua jornada profissional. Descubra por que somos a escolha certa para você.
             </h2>
 
             <h2 className="text-base font-bold text-stone-200 mt-5">
