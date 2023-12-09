@@ -1,5 +1,6 @@
 import "./App.css";
 import Beneficios from "./components/Beneficios";
+import BtnZap from "./components/BtnZap";
 import { Footer } from "./components/Footer";
 import Main from "./components/Main";
 import Objecao from "./components/Objecao";
@@ -10,6 +11,7 @@ function App() {
   return (
     <>
       <Main />
+      <BtnZap />
       <Beneficios />
       <Oferta />
       <Satisfação />

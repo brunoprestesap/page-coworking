@@ -40,7 +40,7 @@ const Objecao = () => {
         seu orçamento inicial
       </p>
 
-      <div className="grid md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 justify-items-center">
         {objecao.map((e, idx) => {
           return (
             <ObjecaoItem
