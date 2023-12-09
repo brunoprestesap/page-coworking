@@ -3,7 +3,7 @@ import { FaFaceGrinWide } from "react-icons/fa6";
 
 const Satisfação = () => {
   return (
-    <div className="p-10 bg-black flex flex-col items-center">
+    <div className="p-5 bg-black flex flex-col items-center">
       <FaFaceGrinWide color="white" size={45} />
       <h2 className="text-white text-5xl text-center my-5">
         Garantia de Satisfação
