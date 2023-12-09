@@ -2,6 +2,7 @@ import "./App.css";
 import Beneficios from "./components/Beneficios";
 import Main from "./components/Main";
 import Oferta from "./components/Oferta";
+import Satisfação from "./components/Satisfação";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Main />
       <Beneficios />
       <Oferta />
+      <Satisfação />
     </>
   );
 }
